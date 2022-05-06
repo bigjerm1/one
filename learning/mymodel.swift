@@ -7,5 +7,5 @@
 
 import Foundation
 struct mymodel{
-    var anme: String
+    var anme: String = "myname"
 }
